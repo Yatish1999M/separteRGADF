@@ -1,0 +1,9 @@
+{
+	"name": "Yatish-ADF-Dev",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "c22209f4-591f-4a51-a868-8b8c1a117900",
+		"tenantId": "a023013a-b824-434e-9e26-19ef84d33912"
+	}
+}
