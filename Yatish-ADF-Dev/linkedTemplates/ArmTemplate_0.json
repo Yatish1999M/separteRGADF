@@ -97,7 +97,7 @@
 			"properties": {
 				"activities": [
 					{
-						"name": "copy 12345",
+						"name": "copy 21",
 						"type": "Copy",
 						"dependsOn": [],
 						"policy": {
