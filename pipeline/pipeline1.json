@@ -3,7 +3,7 @@
 	"properties": {
 		"activities": [
 			{
-				"name": "copy 2456",
+				"name": "copy 24",
 				"type": "Copy",
 				"dependsOn": [],
 				"policy": {
